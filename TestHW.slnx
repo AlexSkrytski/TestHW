@@ -1,4 +1,3 @@
 <Solution>
-  <Project Path="../GetAgeStatus/GetAgeStatus/GetAgeStatus.csproj" />
   <Project Path="TestHW/TestHW.csproj" />
 </Solution>
