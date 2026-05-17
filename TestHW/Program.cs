@@ -7,7 +7,6 @@
 
         vvod1:
 
-
             Console.Write("Введите первое число: ");
             string inputFirstValue = Console.ReadLine() ?? string.Empty;
             bool resultFirstInput = decimal.TryParse(inputFirstValue, out decimal firstValue);
