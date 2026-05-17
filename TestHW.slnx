@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../../Cacl/Cacl/MiniCacl.csproj" />
   <Project Path="TestHW/TestHW.csproj" />
 </Solution>
