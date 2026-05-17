@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Cacl\Cacl\bin\Debug\net10.0\MiniCacl.exe
+C:\Users\HP\source\repos\Cacl\Cacl\bin\Debug\net10.0\MiniCacl.deps.json
+C:\Users\HP\source\repos\Cacl\Cacl\bin\Debug\net10.0\MiniCacl.runtimeconfig.json
+C:\Users\HP\source\repos\Cacl\Cacl\bin\Debug\net10.0\MiniCacl.dll
+C:\Users\HP\source\repos\Cacl\Cacl\bin\Debug\net10.0\MiniCacl.pdb
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\MiniCacl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\MiniCacl.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\MiniCacl.AssemblyInfo.cs
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\MiniCacl.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\MiniCacl.dll
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\refint\MiniCacl.dll
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\MiniCacl.pdb
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\MiniCacl.genruntimeconfig.cache
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\ref\MiniCacl.dll

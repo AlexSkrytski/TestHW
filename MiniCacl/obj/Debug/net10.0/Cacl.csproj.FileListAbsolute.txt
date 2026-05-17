@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Cacl\Cacl\bin\Debug\net10.0\Cacl.exe
+C:\Users\HP\source\repos\Cacl\Cacl\bin\Debug\net10.0\Cacl.deps.json
+C:\Users\HP\source\repos\Cacl\Cacl\bin\Debug\net10.0\Cacl.runtimeconfig.json
+C:\Users\HP\source\repos\Cacl\Cacl\bin\Debug\net10.0\Cacl.dll
+C:\Users\HP\source\repos\Cacl\Cacl\bin\Debug\net10.0\Cacl.pdb
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\Cacl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\Cacl.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\Cacl.AssemblyInfo.cs
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\Cacl.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\Cacl.dll
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\refint\Cacl.dll
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\Cacl.pdb
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\Cacl.genruntimeconfig.cache
+C:\Users\HP\source\repos\Cacl\Cacl\obj\Debug\net10.0\ref\Cacl.dll
